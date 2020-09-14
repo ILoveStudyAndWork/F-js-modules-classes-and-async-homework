@@ -6,4 +6,5 @@ export class Person {
     move = () => {
         console.log(`${this.name} is moving`);
     }
+
 }
